@@ -1,10 +1,8 @@
 # Hello, I'm Magnus 👋
 
-Welcome! 🚀 Here's a bit about me:
-
 ## About Me ℹ️
 
-I am a driven and enthusiastic individual with a strong academic background in Artificial Intelligence and Data Science. Recently, I completed my bachelor's thesis as part of my studies at the Technical University of Denmark, where I specialized in AI and data analysis. Currently, I am working as a software developer at a startup company that leverages AI to bridge gaps in the legal-tech sector.
+I am a driven and enthusiastic individual with a strong academic background in Artificial Intelligence and Data Science. Recently, I completed my bachelor's thesis as part of my studies at the Technical University of Denmark (DTU), where I specialized in variational inference and Bayesian Machine Learning. Currently, I am studying for a masters degree in Mathematical Modeling & Computation at DTU where I specialize in Machine Learning and Data Science. Besides my studies, I work as a software developer at a startup company that leverages AI to bridge gaps in the legal-tech sector.
 
 ## Skills 🛠️
 
